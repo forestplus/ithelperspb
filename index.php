@@ -4,5 +4,6 @@
  </head>
  <body>
  <?php echo '<p>Hello, DevOps!</p>'; ?>
+ <?php echo '<p>Hello, DevOps!</p>'; ?>
  </body>
 </html>
